@@ -1,12 +1,12 @@
 # Custom String Class (C++)
 
-## 📌 Overview
+##  Overview
 This project implements a custom string class `my_string` in C++ from scratch without using `std::string`.  
 It demonstrates **manual memory management**, **copy/move semantics**, and **operator overloading**.
 
 ---
 
-## 🚀 Features
+##  Features
 - Dynamic memory allocation using `new` and `delete`
 - Deep copy support (Copy Constructor & Copy Assignment)
 - Move semantics for performance optimization
@@ -17,7 +17,7 @@ It demonstrates **manual memory management**, **copy/move semantics**, and **ope
 
 ---
 
-## 🧠 Concepts Covered
+##  Concepts Covered
 - Rule of Five:
   - Destructor
   - Copy Constructor
